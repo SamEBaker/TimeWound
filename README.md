@@ -28,3 +28,5 @@ Time is not only an ally but the players greatest foe, urging them to balance gr
 <br>
 
 Designed and developed based on my board game **Vault Raiders** for Game Systems Production SIM 351. For semester-long development we utilized agile practices like user stories, sprints, and task boards.
+
+Press B, LB, and RB to activate cheat. 
