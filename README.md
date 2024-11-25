@@ -10,6 +10,7 @@
  </div>
  <br>
  <div align="left">
+  
  **Brief Synopsis:** Four adventurers must race against time in order to seize their fortune, exploring a cavern with a fragile clockwork structure that is constantly winding down. As seconds tick away, players must work together to gather as much gold as they can before the entire cavern collapses around them.
 
 To delay the inevitable collapse, players must explore the labyrinth for gears to rewind the massive central timer, keeping the cave intact just a little longer. As they explore, they will fight monsters, solve puzzles, and unlock hidden vaults filled with riches.
