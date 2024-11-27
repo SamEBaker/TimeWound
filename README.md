@@ -19,7 +19,7 @@ Time is not only an ally but the players greatest foe, urging them to balance gr
 
  <hr/>
  
-*Assets Used:* [Gear Models on Timer](https://assetstore.unity.com/packages/tools/game-toolkits/chain-and-gear-generator-273628), [Map structures, pillars, wall textures, ect](https://assetstore.unity.com/packages/3d/environments/dungeons/dungeon-modular-pack-295430), [UI except for coin and gear on player hud](https://assetstore.unity.com/packages/2d/gui/icons/steampunkui-238976)
+*Assets Used:* [Gear Models on Timer](https://assetstore.unity.com/packages/tools/game-toolkits/chain-and-gear-generator-273628), [Map structures, pillars, wall textures, ect](https://assetstore.unity.com/packages/3d/environments/dungeons/dungeon-modular-pack-295430), [UI except for coin and gear on player hud](https://assetstore.unity.com/packages/2d/gui/icons/steampunkui-238976), Audio from [Pixabay](https://pixabay.com) and [OpenGameArt](https://opengameart.org), Animations from [Mixamo](https://www.mixamo.com/)
 
 *Code examples used are linked in each script*
 
