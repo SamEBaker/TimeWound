@@ -7,6 +7,7 @@
   **4 Player Couch Co-Op Game**  
  <br>
  Please download zip for exe file :) 
+ *Gamepad Required*
  
  [Watch Trailer](https://youtu.be/PvHjFMoqkdQ)
  </div>
